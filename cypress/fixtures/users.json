@@ -1,0 +1,16 @@
+{
+  "valido": {
+    "usuario": "student",
+    "senha": "Password123"
+  },
+  "usuarioInvalido": {
+    "usuario": "studentt",
+    "senha": "Password123"
+  },
+  "senhaInvalida": {
+    "usuario": "student",
+    "senha": "123"
+  }
+}
+
+
